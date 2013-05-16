@@ -1,10 +1,8 @@
-================================================================================
-Programming Challenge Solution
-by Chris Cho <christopher_cho@yahoo.com>
-Jan 8, 2013
-================================================================================
+#Programming Challenge Solution
+#by Chris Cho <christopher_cho@yahoo.com>
+#Jan 8, 2013
 
-Problem:
+##Problem:
 The attached utf-8 encoded text file contains the favorite musical artists of 
 1000 users from LastFM. Each line is a list of up to 50 artists, formatted as follows:
  
@@ -31,14 +29,14 @@ C++, Perl. Please include compilation/runtime instructions with your code. Other
 languages may be considered on a case-by-case basis.
 
 
-How to build:
+##How to build:
 
 Although I originally compiled and ran through sbt, I did not want to force you,
 the evaluator to download scala and sbt just to build nor did I find it 
 necessary to create an ant build file. Instead, you can import this project into
 Eclipse or other IDE. I used Eclipse to export the jar file.
 
-How to run:
+##How to run:
 
 % java -jar challenge-solution.jar <input file> <minimum occurrences>
 
