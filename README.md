@@ -1,6 +1,6 @@
 #Programming Challenge Solution
-#by Chris Cho <christopher_cho@yahoo.com>
-#Jan 8, 2013
+by Chris Cho <christopher_cho@yahoo.com>
+Jan 8, 2013
 
 ##Problem:
 The attached utf-8 encoded text file contains the favorite musical artists of 
